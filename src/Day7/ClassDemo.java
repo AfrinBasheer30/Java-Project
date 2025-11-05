@@ -1,3 +1,5 @@
+package works;
+
 class Student{
     int rno;
     String name;
